@@ -3,6 +3,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: relative;
     left: 25px;
+    right: 25px;
 }
 
 .maiuscula {
@@ -34,4 +35,13 @@ h3 {
 
 img {
     width: 75%;
+}
+
+#textoEspecial {
+    border-top: solid black 5px;
+    padding-top: 10px;
+}
+
+#textoTres {
+    padding-bottom: 10px;
 }
